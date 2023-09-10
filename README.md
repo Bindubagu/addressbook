@@ -1,4 +1,4 @@
-Delete Me
+DeleteMe
 
 Addressbook Tutorial
 ====================
